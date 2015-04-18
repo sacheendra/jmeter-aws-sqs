@@ -1,4 +1,6 @@
-/build
-/.gradle
-/aws-java-sdk-1.7.13
+build
+.gradle
+aws-java-sdk-1.7.13
 .DS_Store
+*.log
+*.jar
